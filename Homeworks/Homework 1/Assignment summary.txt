@@ -1,3 +1,5 @@
-Create an account on a cloud service provider such as Google Cloud Platform (GCP) or Amazon Web Services (AWS). Then, create a simple virtual machine. Afterwards, perform a ping test from your local computer to the cloud machine and document the results with a screenshot or output.
+Create an account on a cloud service provider 
+such as Google Cloud Platform (GCP) or Amazon Web Services (AWS). 
+Then, create a simple virtual machine. Afterwards, perform a ping test from your local computer to the cloud machine and document the results with a screenshot or output.
 
 
